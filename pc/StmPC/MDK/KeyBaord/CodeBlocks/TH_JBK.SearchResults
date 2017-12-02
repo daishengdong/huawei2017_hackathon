@@ -1,3 +1,0 @@
----- CURSOR_STEP Matches (2 in 2 files) ----
-Define.h (h:\stm32\th_jbk\stmpc\mdk\keybaord\include):#define CURSOR_STEP     10
-Hw_config.h (h:\stm32\th_jbk\stmpc\mdk\keybaord\include):signed char  CURSOR_STEP=30;

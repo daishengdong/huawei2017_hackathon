@@ -1,1 +1,0 @@
--c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\include -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\Obj\usart.o" --omf_browse ".\Obj\usart.crf" --depend ".\Obj\usart.d" "..\driver\usart.c"
