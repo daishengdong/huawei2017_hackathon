@@ -1,10 +1,13 @@
 # huawei2017_hackathon
 
-.  
+.
 ├── cloud  
+
 ├── pc  
+
 ├── README.md  
-└── sense-camera  
+
+└── sense-camera
 
 cloud: 跑在云端(服务器)上的代码，提供人脸识别算法
 
