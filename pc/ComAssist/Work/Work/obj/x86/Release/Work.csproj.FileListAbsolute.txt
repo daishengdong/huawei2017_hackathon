@@ -1,0 +1,8 @@
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\bin\Release\Work.exe
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\bin\Release\Work.pdb
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\obj\x86\Release\Work.csprojResolveAssemblyReference.cache
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\obj\x86\Release\Work.SSCOM.resources
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\obj\x86\Release\Work.Properties.Resources.resources
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\obj\x86\Release\Work.csproj.GenerateResource.Cache
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\obj\x86\Release\Work.exe
+F:\kuaipan\ProgramInZheDa\pro4_jkb\source\TH_jbk\ComAssist\Work\Work\obj\x86\Release\Work.pdb

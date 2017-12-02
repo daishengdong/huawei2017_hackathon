@@ -1,0 +1,13 @@
+..\Obj\tty.o: ..\Driver\tty.c
+..\Obj\tty.o: ..\Driver\tty.h
+..\Obj\tty.o: ..\Driver\../FWlib/inc/stm32f10x_usart.h
+..\Obj\tty.o: C:\Keil\ARM\INC\ST\STM32F10x\stm32f10x.h
+..\Obj\tty.o: C:\Keil\ARM\RV31\INC\core_cm3.h
+..\Obj\tty.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\Obj\tty.o: C:\Keil\ARM\INC\ST\STM32F10x\system_stm32f10x.h
+..\Obj\tty.o: ..\Driver\../FWlib/inc/stm32f10x_gpio.h
+..\Obj\tty.o: ..\Driver\../init/stm32f10x_it.h
+..\Obj\tty.o: ..\Driver\../init/stm32f10x.h
+..\Obj\tty.o: ..\Driver\../init/stm32f10x_conf.h
+..\Obj\tty.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Obj\tty.o: ..\FWlib\inc\stm32f10x_spi.h

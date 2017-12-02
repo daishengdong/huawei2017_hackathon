@@ -1,0 +1,13 @@
+..\Obj\head.o: ..\includes\head.c
+..\Obj\head.o: ..\includes\Head.h
+..\Obj\head.o: ..\includes\../init/stm32f10x_it.h
+..\Obj\head.o: ..\includes\../init/stm32f10x.h
+..\Obj\head.o: ..\includes\../init/stm32f10x_conf.h
+..\Obj\head.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Obj\head.o: C:\Keil\ARM\INC\ST\STM32F10x\stm32f10x.h
+..\Obj\head.o: C:\Keil\ARM\RV31\INC\core_cm3.h
+..\Obj\head.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\Obj\head.o: C:\Keil\ARM\INC\ST\STM32F10x\system_stm32f10x.h
+..\Obj\head.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Obj\head.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Obj\head.o: C:\Keil\ARM\RV31\INC\stdbool.h
