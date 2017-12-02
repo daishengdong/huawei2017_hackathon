@@ -1,9 +1,13 @@
 # huawei2017_hackathon
 
 .
+
 ├── cloud
+
 ├── pc
+
 ├── README.md
+
 └── sense-camera
 
 
