@@ -1,0 +1,15 @@
+..\Obj\usart.o: ..\Driver\usart.c
+..\Obj\usart.o: ..\Driver\usart.h
+..\Obj\usart.o: ..\Driver\../FWlib/inc/stm32f10x_usart.h
+..\Obj\usart.o: C:\Keil\ARM\INC\ST\STM32F10x\stm32f10x.h
+..\Obj\usart.o: C:\Keil\ARM\RV31\INC\core_cm3.h
+..\Obj\usart.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\Obj\usart.o: C:\Keil\ARM\INC\ST\STM32F10x\system_stm32f10x.h
+..\Obj\usart.o: ..\Driver\../FWlib/inc/stm32f10x_gpio.h
+..\Obj\usart.o: ..\Driver\../init/stm32f10x_it.h
+..\Obj\usart.o: ..\Driver\../init/stm32f10x.h
+..\Obj\usart.o: ..\Driver\../init/stm32f10x_conf.h
+..\Obj\usart.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Obj\usart.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Obj\usart.o: ..\Driver\../includes/Head.h
+..\Obj\usart.o: C:\Keil\ARM\RV31\INC\stdbool.h

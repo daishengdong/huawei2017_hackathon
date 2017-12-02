@@ -1,0 +1,11 @@
+..\Obj\os_mem.o: ..\kernel\os_mem.c
+..\Obj\os_mem.o: ..\kernel\./CONFIG/includes.h
+..\Obj\os_mem.o: C:\Keil\ARM\RV31\INC\stdio.h
+..\Obj\os_mem.o: C:\Keil\ARM\RV31\INC\string.h
+..\Obj\os_mem.o: C:\Keil\ARM\RV31\INC\ctype.h
+..\Obj\os_mem.o: C:\Keil\ARM\RV31\INC\stdlib.h
+..\Obj\os_mem.o: C:\Keil\ARM\RV31\INC\stdarg.h
+..\Obj\os_mem.o: ..\kernel\./CONFIG/../ucos_ii.h
+..\Obj\os_mem.o: ..\kernel\./CONFIG/.././CONFIG/includes.h
+..\Obj\os_mem.o: ..\kernel\./CONFIG/.././CONFIG/os_cfg.h
+..\Obj\os_mem.o: ..\kernel\./CONFIG/.././CPU/os_cpu.h
