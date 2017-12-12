@@ -1,5 +1,7 @@
 # huawei2017_hackathon
 
+树莓派红外传感器，检测人进行人脸识别，反向解锁个人PC
+
 .
 
 ├── cloud
